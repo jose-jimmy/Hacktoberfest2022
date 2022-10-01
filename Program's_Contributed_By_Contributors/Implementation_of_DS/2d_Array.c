@@ -1,4 +1,4 @@
-/*Program to read and display a 2 dimensional array*/
+/*Program to read and display a 2 dimensional array using C*/
 #include<stdio.h>
 #include<conio.h>
 void main()
